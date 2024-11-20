@@ -2,8 +2,8 @@
 # All-Atom-DL methods
 
 - **AlphaFold3**: Accurate structure prediction of biomolecular interactions with AlphaFold 3
-  - ![PUBLICATION](https://example.com/publication) CITATIONS:995
-  - ![WEBSERVER](https://example.com/webservice) ONLINE
+  -  CITATIONS:995
+  -  ONLINE
 
 - **DiffusionProteinLigand**: End-to-end protein-ligand complex structure generation with diffusion-based generative models (standalone).
   - STARS 77 LAST COMMIT FEBRUARY PUBLICATION CITATIONS:16
